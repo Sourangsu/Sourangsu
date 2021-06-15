@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sourangsu. I am currently working full-time at Momentum Optics as a Senior Optical Engineer.
-
-My interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing.
+My name is Sourangsu. I am currently working full-time at Momentum Optics as a Senior Optical Engineer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing.
 
