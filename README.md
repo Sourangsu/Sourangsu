@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sourangsu. I am currently working full-time at Momentum Optics, Inc. as a Senior Optical Engineer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing.
+My name is Sourangsu. I am currently working full-time at Momentum Optics, Inc. as a Lead Optical Engineer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing.
 
 Nonetheless, I am also currently obsessed with Blockchain Technology and Cryptocurrency. Instead of crypto trading, I am interested to learn about its technical aspects and the technological advancements of the Blockchain. In the long run, I wish to get my hands dirty with coding some DApps. 😄 😄 
 
