@@ -19,4 +19,4 @@ My name is Sourangsu. I am currently working full-time at Momentum Optics, Inc. 
 
 Nonetheless, I am also currently obsessed with Blockchain Technology and Cryptocurrency. Instead of crypto trading, I am interested to learn about its technical aspects and the technological advancements of the Blockchain. In the long run, I wish to get my hands dirty with coding some DApps. 😄 😄 
 
-Since I love to do science, I support the idea behind the crytocurrency: Gridcoin. You can read all about Gridcoin [here](https://gridcoin.us/). 
+Since I love to do science, I support the idea behind the crytocurrency: Gridcoin. You can read all about Gridcoin [here](https://gridcoin.world/). 
