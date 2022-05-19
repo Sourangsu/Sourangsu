@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 My name is Sourangsu. I am currently working  at Momentum Optics, Inc. as a Lead Optical Engineer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing. 
 
-Please feel free to check out my repositories and see if you find anything useful...
+Please feel free to check out my repositories and see if you find anything useful... 
 
-Don't hesitate to reach me at sourangsu.bandyapadhyay@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on! 
+Don't hesitate to reach me at sourangsu.bandyapadhyay@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on!
+
+<br/>
+<br/>
+
+![Sourangsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourangsu&include_all_commits=true&count_private=true)
