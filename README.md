@@ -24,4 +24,4 @@ Don't hesitate to reach me at sourangsu.bandyapadhyay@gmail.com if you think the
 <br/>
 <br/>
 
-![Sourangsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourangsu&include_all_commits=true&count_private=true)
+
