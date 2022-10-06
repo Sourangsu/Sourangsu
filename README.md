@@ -21,6 +21,3 @@ Please feel free to check out my repositories and see if you find anything usefu
 
 Don't hesitate to reach me at sourangsu.bandyapadhyay@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on!
 
-<br/>
-
-![Sourangsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourangsu&include_all_commits=true&count_private=true)
