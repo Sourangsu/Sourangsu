@@ -19,5 +19,5 @@ My name is Sourangsu. I am currently working at Irradiant Technologies Inc. as a
 
 Please feel free to check out my repositories and see if you find anything useful... 
 
-Don't hesitate to reach me at sourangsu.bandyapadhyay@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on!
+Don't hesitate to reach out to me if you think there might be some projects that would be interesting to me and we can collaborate on!
 
