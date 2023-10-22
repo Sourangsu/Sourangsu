@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 My name is Sourangsu. I am currently working at Irradiant Technologies Inc. as a Lead Optical Designer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing. 
 
 Please feel free to check out my repositories and see if you find anything useful... 
-
-Don't hesitate to reach out to me if you think there might be some projects that would be interesting to me and we can collaborate on!
-
