@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sourangsu. I am currently working at Irradiant Technologies Inc. as a Lead Optical Designer. In general, my interests lie at the intersection of computer science, electromagnetics, optics, photonics, and advanced manufacturing. 
+My name is Sourangsu. I am currently working at Irradiant Technologies Inc. as a Lead Optical Designer. In general, my interests lie at the intersection of optics, electromagnetics, computer science, and advanced manufacturing. 
 
 Please feel free to check out my repositories and see if you find anything useful... 
